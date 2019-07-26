@@ -1,25 +1,82 @@
-# Taks
+# talks
+Repo for the Cloud Natvie Barcelona talks
 
-## 19th June 2018
+## Cloud Native Barcelona overview
 
-### Meetup Event
+| Resource | Link                              |
+| -------- | --------------------------------- |
+| Slides   | http://go.rael.dev/cnbcn-overview |
 
-https://www.meetup.com/Barcelona-Cloud-Meetup/events/251548472/
+## Git: Don't lose your head (July 2019)
 
-### Talks
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/cnbcn-git-head                               |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/263045000/ |
 
-#### Kubernetes 101
+## Inclusivity and diversity at CNCF (June 2019)
 
-The main subject of this talk is to have an overview on the microservices architectures. Then, starts an introduction to the kubernetes architecture, core services and objects: pods, controllers, deployments and sets.
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/cnbcn-pride19                                |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/262676418/ |
 
-[Kubernetes 101](https://github.com/raelga/kubernetes-talks/tree/master/101)
+## KubeCap EU'19: KubeCon+CloudNativeCon Europe 2019 Event ReCap (June 2019)
 
-#### Kubernetes Clouds
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | https://go.rael.dev/kubecap19-eu                                |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/262219953/ |
 
-The main subject of this talk is viewing the differences between each managed kubernetes solution offered by AWS, Azure and GCP.
+## Cloud Study Jam: GCP Essentials (June 2019)
 
-[Kubernetes Clouds](https://github.com/raelga/kubernetes-talks/tree/master/clouds/)
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/cnbcn-csj-essentials19                       |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/261952548/ |
 
-For the labs, the main object is having several clusters deployed all over the using each managed (or not) solution and deploy the same application using the common interface provided by Kubernetes.
+## Contributing to Kubernetes, join the sig-docs hackathon! (May 2019)
 
-[Kubernetes Clouds Labs](https://github.com/raelga/kubernetes-talks/tree/master/clouds/labs)
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/k8s-contribute                               |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/260769421/ |
+
+## Kubernetes Study Jam (May 2019)
+
+| Resource | Link                                                                             |
+| -------- | -------------------------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/k8s-101                                                       |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/260756033/                  |
+| Code     | https://rael.dev/kubernetes-talks/tree/master/study-jams/k8s/default/replicasets |
+
+## Cloud Native and GitOps (April 2019)
+
+| Resource | Link                                                                             |
+| -------- | -------------------------------------------------------------------------------- |
+| Code     | http://rael.dev/GitOps-talk                                                      |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/260224164/                  |
+
+## Kubernetes Study Jam (April 2019)
+
+| Resource | Link                                                                      |
+| -------- | ------------------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/k8s-101                                                |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/260422493/           |
+| Code     | https://rael.dev/kubernetes-talks/tree/master/study-jams/k8s/default/pods |
+
+## Kubernetes 1.13 y Traefik 2.0 (March 2019)
+
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/traefik-2alpha                               |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/259898099/ |
+| Code     | https://rael.dev/kubernetes-talks/tree/master/traefik           |
+
+## Kubernetes para todos: AWS, Microsoft Azure y Google Cloud (June 2018)
+
+| Resource | Link                                                            |
+| -------- | --------------------------------------------------------------- |
+| Slides   | http://go.rael.dev/k8s-clouds-breakdown                         |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/251548472/ |
+| Code     | https://rael.dev/kubernetes-talks/tree/master/providers         |
